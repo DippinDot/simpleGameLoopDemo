@@ -11,3 +11,6 @@ let gameState = {
 // * Put Stuff of the screen
 
 // * Make them work together
+
+
+console.log('hello')
